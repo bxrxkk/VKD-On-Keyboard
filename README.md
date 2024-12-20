@@ -27,6 +27,7 @@ If 'a' is not pressed, press 'd'.
 Releasing Keys:
 On 'a' release: Stop 'a' and check if 'd' is pressed to continue 'd'.
 On 'd' release: Stop 'd' and check if 'a' is pressed to continue 'a'.
+
 Usage:
 
 Run this script with AutoHotkey before playing the game to activate it.
