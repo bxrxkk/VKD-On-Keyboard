@@ -32,6 +32,6 @@ On 'd' release: Stop 'd' and check if 'a' is pressed to continue 'a'.
 
 Usage:
 
-Run this script with AutoHotkey before playing the game to activate it.
+* Run this script with AutoHotkey before playing the game to activate it.
 
-This is mostly designed for gaming where 'a' and 'd' is used for movement.
+* This is mostly designed for gaming where 'a' and 'd' is used for movement.
