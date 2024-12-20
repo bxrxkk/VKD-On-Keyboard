@@ -4,6 +4,8 @@ Vanish-Key-Delay On Keyboard
 # NOTE
 This is still under developement as i am planning to add this function to the "W" and the "S" keybind
 
+Please use the new versions found in releases
+
 ------------------------------------------
 
 * This executable macro allows dynamic switching between 'a'/'A' and 'd'/'D' keys to provide continuous movement in games/work.
